@@ -1,0 +1,12 @@
+[package]
+name = "cellular"
+version = "0.1.0"
+edition = "2021"
+description = "Create cellular automata."
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rayon = { version = "1.5", optional = true }

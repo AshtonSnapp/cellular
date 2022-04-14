@@ -3,6 +3,7 @@ name = "cellular-snapp"
 version = "0.1.0"
 edition = "2021"
 description = "Create cellular automata."
+repository = "https://github.com/AshtonSnapp/cellular"
 readme = "README.md"
 license = "MIT"
 
